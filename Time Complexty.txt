@@ -1,0 +1,10 @@
+Linear Search : Θ(N)
+
+Iterative Binary Search : Θ(lgn)
+
+Selection Sort : Θ(N^2)
+
+Bubble Sort: Θ(N^2)
+
+Insertion Sort: Θ(N^2)
+
